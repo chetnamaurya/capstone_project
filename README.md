@@ -1,1 +1,1 @@
-# capstone_project
+# EDA for amazon prime video dataset
